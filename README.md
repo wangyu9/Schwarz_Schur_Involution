@@ -43,3 +43,15 @@ More details are coming soon.
 
 Coming soon after ICML. 
 
+# Reference 
+
+```
+@inproceedings{
+wang2025schwarzschur,
+title={Schwarz{\textendash}Schur Involution: Lightspeed Differentiable Sparse Linear Solvers},
+author={Yu Wang and Mazdak Abulnaga and Ya{\"e}l Balbastre and Bruce Fischl},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://github.com/wangyu9/Schwarz_Schur_Involution}
+}
+```
