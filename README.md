@@ -16,6 +16,10 @@ This repo is the official implementation of the ICML 2025 paper
 
 [Poster](https://www.dropbox.com/scl/fi/l3d7y338wk1nthm9zw3cy/poster-icml25.pdf?rlkey=56rf2a9ft68sitptdsx5280y7&st=h3sb7yxz&dl=0)
 
+# Dependencies
+
+`pytorch`: tested with pytorch 2.7. Installing Pytorch with GPU support is strongly recommended to achieve the reported level of performance.  
+
 # Usage
 
 The basic usage: 
