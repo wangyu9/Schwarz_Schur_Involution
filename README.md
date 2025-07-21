@@ -2,14 +2,13 @@
 
 This repo is the official implementation of the ICML 2025 paper 
 
-**Schwarz–Schur Involution: Lightspeed Differentiable Sparse Linear Solvers**
+*    **Schwarz–Schur Involution: Lightspeed Differentiable Sparse Linear Solvers**
+  
+        by *Yu Wang, S. Mazdak Abulnaga, Yaël Balbastre, Bruce Fischl.*
+     
+        *International Conference on Machine Learning (ICML) 2025.*
 
-by *Yu Wang, S. Mazdak Abulnaga, Yaël Balbastre, Bruce Fischl.* 
-
-*International Conference on Machine Learning (ICML) 2025*
-
-
-<img width="3200" height="1600" alt="poster-icml25" src="https://github.com/user-attachments/assets/faf75125-dc34-443b-9352-5383d49e62b3" />
+<img width="3200" height="1600" alt="poster-icml25" src="https://github.com/user-attachments/assets/0249964a-cb50-47cb-b07c-2c8158dfc180" />
 
 (Title in Chinese: Schwarz-Schur翻卷, 稀疏矩阵逆)
 
