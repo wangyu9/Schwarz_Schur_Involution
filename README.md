@@ -53,7 +53,7 @@ Coming soon after ICML.
 A: Please refer to the paper for an extensive discussion. In short, advances in the GPU capability thanks to deep learning shift the best practice
 towards algorithms like ours that better exploit parallelisms.
 
-> Q: Does the solver supports irregular meshes in addition to regular grids?
+> Q: Does the solver support irregular meshes in addition to regular grids?
 
 A: Not yet, but we have been working on that! Stay tuned and check back.
 
