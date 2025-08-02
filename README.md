@@ -46,6 +46,17 @@ More details are coming soon.
 
 Coming soon after ICML. 
 
+# FAQs:
+
+> Q: This looks great but why the method is not proposed decades ago?
+
+A: Please refer to the paper for an extensive discussion. In short, advances in the GPU capability thanks to deep learning shift the best practice
+towards algorithms like ours that better exploit parallelisms.
+
+> Q: Does the solver supports irregular meshes in addition to regular grids?
+
+A: Not yet, but we have been working on that! Stay tuned and check back.
+
 # Reference 
 
 ```
